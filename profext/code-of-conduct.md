@@ -1,5 +1,5 @@
 # CODE-OF-CONDUCT
-![alt text](desktop/coc.jpg/626/417)
+![alt text](profext/images/coc.jpg/626/417)
 
 `STUDENT CODE-IN` wants to create an inclusive environment for everyone, regardless of ethnicity, religion, skin color, national origin, age, disability, sexual orientation, gender identity, parental status, marital status and political belonging as well as gender-specific expression, mental illness, socio-economic status or background. We at SCI-20 are united by these values and uphold our unique differences.
 
