@@ -49,8 +49,7 @@ When someone says something that is almost, but not entirely correct, one tends 
 Exclusive behavior is often characterized by subtle comments. To say, "It's so easy that my daughter can do it" is a discriminating statement. Regardless of the intention of this statement, they have a very humiliating effect on other team members.If you notice something like this in someone, then you should point it out to the person publicly or privately. If you can't because you may be too involved, ask your team leader or management to say something.
 
 #### - Harassment may include but not limited to the following:
--Offensive, inappropriate, or unwanted comments related to gender, sexual orientation, disability, physical appearance, body size, race, ethnicity, national origin, religion, or age, or other protected categories under applicable law.
-
+- Offensive, inappropriate, or unwanted comments related to gender, sexual orientation, disability, physical appearance, body size, race, ethnicity, national origin, religion, or age, or other protected categories under applicable law.
 - Visual harassment eg. sexual imagery or use of sexual language at Student-Code-In community events
 - Disrespect towards differences of opinion
 - Deliberate intimidation, stalking, harassing photography or recording
@@ -64,13 +63,13 @@ Exclusive behavior is often characterized by subtle comments. To say, "It's so e
 
 ## REPORT A PROBLEM
 The worst thing that can happen is someone keeps quiet when there are problems. There are a number of things that you can do to resolve conflicts and problems as best you can:
-#### Contact the management directly:
+#### - Contact the management directly:
 because we take incidents regarding the topics mentioned very seriously. We are always there for you to discuss any problem and together we will find out what steps we need to take next to solve the problem. In any case, we will do everything in our power to keep in extensive consultation with all those who report a problem and to maintain confidentiality.
 
-#### Talk to your team lead:
+#### - Talk to your team lead:
 because as a team lead you know best about the dynamics of the team. He or she is the best contact to ask for advice. Together you will find out how to resolve the conflict and how to avoid being further affected in your work.
 
-#### Speak it out directly:
+#### - Speak it out directly:
 Minor incidents should be addressed directly. Take your time and talk to the affected team member privately. Use this approach only if you feel comfortable. If you are unsure how to conduct such a conversation, contact the management and you will receive advice on how to conduct the conversation.
 
 
