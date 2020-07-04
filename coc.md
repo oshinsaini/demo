@@ -27,10 +27,15 @@ All employees of SCI-20 are expected to be thoughtful and considerate towards ot
 -Be professional
 
 -Be responsible
+
 -Be honest
+
 -Be welcoming
+
 -Be kind
+
 -Be respectful of other viewpoints and ideas
+
 -Be supportive and look out for each other
 
 ## UNACCEPTABLE BEHAVIOR 
@@ -50,13 +55,21 @@ Exclusive behavior is often characterized by subtle comments. To say, "It's so e
 
 #### Harassment may include but not limited to the following:
 -Offensive, inappropriate, or unwanted comments related to gender, sexual orientation, disability, physical appearance, body size, race, ethnicity, national origin, religion, or age, or other protected categories under applicable law.
+
 -Visual harassment eg. sexual imagery or use of sexual language at Student-Code-In community events
+
 -Disrespect towards differences of opinion
+
 -Deliberate intimidation, stalking, harassing photography or recording
+
 -Sustained disruption of talks or other events
+
 -Inappropriate or unwanted physical contact
+
 -Intimidation or bullying (online or in-person)
+
 -Unwelcome sexual attention
+
 -Reporting and Enforcement
 
 
