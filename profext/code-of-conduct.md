@@ -24,7 +24,7 @@
 ## EXPECTED BEHAVIOR
 Don't just support your colleagues on demand, be proactive. Offer your help if you notice that a team member is struggling with a problem or otherwise needs help. Be careful not to be too patronizing or disrespectful. When someone turns to you for help, always be open, listen and try to put yourself in the position of your counterpart. If you don't have time because of a deadline, let the person know and tell them openly when you have time or maybe refer a team member who is just as familiar with the topic.
 
-The team of SCI-20 are expected to be thoughtful and considerate towards others. In this way we contribute to a collaborative, positive and healthy environment in which the team must:
+The team of `SCI-20` are expected to be thoughtful and considerate towards others. In this way we contribute to a collaborative, positive and healthy environment in which the team must:
 
 - Be inclusive
 - Be collaborative
@@ -37,7 +37,7 @@ The team of SCI-20 are expected to be thoughtful and considerate towards others.
 - Be supportive and look out for each other
 
 ## UNACCEPTABLE BEHAVIOR 
-We at SCI-20 want to create a welcoming and friendly corporate culture for everyone. Discrimination and harassment are expressly prohibited. In addition, any behaviour or language that is exclusive or harassing is strongly rejected. Especially in the tech scene there exist behavior we don't like to see and that we would like to change:
+We at `SCI-20` want to create a welcoming and friendly corporate culture for everyone. Discrimination and harassment are expressly prohibited. In addition, any behaviour or language that is exclusive or harassing is strongly rejected. Especially in the tech scene there exist behavior we don't like to see and that we would like to change:
 
 #### - Don't be surprised if a team member is not yet familiar with a topic.
 We believe in the spirit of a beginner and in the fact that one constantly wants to learn something new. It is absolutely okay to say "I don't know" or "I don't understand". The phrase "there are no stupid questions" is lived 100% by us, because that is the only way we learn. So please don't be surprised if someone is not familiar with a tool, a person or a process.
@@ -78,6 +78,6 @@ Minor incidents should be addressed directly. Take your time and talk to the aff
 
 
 ## REPORTING AND ENFORCEMENT 
-- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting an incident report, or email us.
+- If you are the subject of, or witness to any violations of this `Code of Conduct`, please contact us by submitting an incident report, or email us.
 - If necessary, conference staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the conference without refund, and referrals to venue security or local law enforcement.
 
