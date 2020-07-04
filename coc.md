@@ -1,18 +1,19 @@
 # CODE-OF-CONDUCT
 ![alt text](desktop/coc.jpg/626/417)
 
-STUDENT CODE-IN wants to create an inclusive environment for everyone, regardless of ethnicity, religion, skin color, national origin, age, disability, sexual orientation, gender identity, parental status, marital status and political belonging as well as gender-specific expression, mental illness, socio-economic status or background. We at SCI-20 are united by these values and uphold our unique differences.
+`STUDENT CODE-IN` wants to create an inclusive environment for everyone, regardless of ethnicity, religion, skin color, national origin, age, disability, sexual orientation, gender identity, parental status, marital status and political belonging as well as gender-specific expression, mental illness, socio-economic status or background. We at SCI-20 are united by these values and uphold our unique differences.
 
 
 ## Introduction
 
 -We are dedicated to providing a `harassment free` experience for everyone, and we do not tolerate harassment of participants in any form. We ask you to be considerate of others and behave professionally and respectfully to all other participants.
 - This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members.
-- Admins, Mentors, Contributers and all other attendees at events organized by Student-Code-In are subject to these Community Guidelines and Code of Conduct.
--Diversity and inclusion make the Student-Code-In community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
+- Admins, Mentors, Contributers and all other attendees at events organized by Student-Code-In are subject to these Community Guidelines and `Code of Conduct`.
+-Diversity and inclusion make the `Student-Code-In community` strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
 
 
 >Our goal is to maintain a safe, helpful and friendly Student-Code-In community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other protected categories under applicable law.
+
 
 ## EXPECTED BEHAVIOR
 Don't just support your colleagues on demand, be proactive. Offer your help if you notice that a team member is struggling with a problem or otherwise needs help. Be careful not to be too patronizing or disrespectful. When someone turns to you for help, always be open, listen and try to put yourself in the position of your counterpart. If you don't have time because of a deadline, let the person know and tell them openly when you have time or maybe refer a team member who is just as familiar with the topic.
@@ -87,7 +88,6 @@ Minor incidents should be addressed directly. Take your time and talk to the aff
 
 
 ## REPORTING AND ENFORCEMENT 
-```re
 -If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting an incident report, or email us.
 -If necessary, conference staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the conference without refund, and referrals to venue security or local law enforcement.
 
