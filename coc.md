@@ -36,19 +36,19 @@ All employees of SCI-20 are expected to be thoughtful and considerate towards ot
 ## UNACCEPTABLE BEHAVIOR 
 We at SCI-20 want to create a welcoming and friendly corporate culture for everyone. Discrimination and harassment are expressly prohibited. In addition, any behaviour or language that is exclusive or harassing is strongly rejected. Especially in the tech scene there exist behavior we don't like to see and that we would like to change:
 
-#### Don't be surprised if a team member is not yet familiar with a topic.
+#### - Don't be surprised if a team member is not yet familiar with a topic.
 We believe in the spirit of a beginner and in the fact that one constantly wants to learn something new. It is absolutely okay to say "I don't know" or "I don't understand". The phrase "there are no stupid questions" is lived 100% by us, because that is the only way we learn. So please don't be surprised if someone is not familiar with a tool, a person or a process.
 
-#### No exclusive language
+#### - No exclusive language
 Be careful in your choice of words, no matter how banal it sounds. No, they are not only "great guys" at work, they are "great people" (including all as well). Sexist, racist, rejecting and excluding jokes are not appropriate and will not be tolerated in the team. Any kind of verbal harassment or bullying is just as strongly rejected.
 
-#### No "know-it-all" statements:
+#### - No "know-it-all" statements:
 When someone says something that is almost, but not entirely correct, one tends to add a correction to what has been said before. We should always strive to save the face of others and uphold our values. In most cases, these "know-it-all" statements are not decisive for the overall conversation and are not goal-oriented, but rather annoying and a waste of time. If it is important in your eyes, then use a language that leaves others with the impression that you might be wrong or missed something important out of context and therefore take a different view now.
 
-#### No subtle comments:
+#### - No subtle comments:
 Exclusive behavior is often characterized by subtle comments. To say, "It's so easy that my daughter can do it" is a discriminating statement. Regardless of the intention of this statement, they have a very humiliating effect on other team members.If you notice something like this in someone, then you should point it out to the person publicly or privately. If you can't because you may be too involved, ask your team leader or management to say something.
 
-#### Harassment may include but not limited to the following:
+#### - Harassment may include but not limited to the following:
 -Offensive, inappropriate, or unwanted comments related to gender, sexual orientation, disability, physical appearance, body size, race, ethnicity, national origin, religion, or age, or other protected categories under applicable law.
 
 - Visual harassment eg. sexual imagery or use of sexual language at Student-Code-In community events
@@ -76,6 +76,6 @@ Minor incidents should be addressed directly. Take your time and talk to the aff
 
 
 ## REPORTING AND ENFORCEMENT 
--If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting an incident report, or email us.
--If necessary, conference staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the conference without refund, and referrals to venue security or local law enforcement.
+- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting an incident report, or email us.
+- If necessary, conference staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the conference without refund, and referrals to venue security or local law enforcement.
 
