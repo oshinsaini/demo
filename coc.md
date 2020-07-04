@@ -5,7 +5,7 @@ STUDENT CODE-IN wants to create an inclusive environment for everyone, regardles
 
 
 ## Introduction
-```intro
+
 -We are dedicated to providing a `harassment free` experience for everyone, and we do not tolerate harassment of participants in any form. We ask you to be considerate of others and behave professionally and respectfully to all other participants.
 - This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members.
 - Admins, Mentors, Contributers and all other attendees at events organized by Student-Code-In are subject to these Community Guidelines and Code of Conduct.
@@ -13,7 +13,6 @@ STUDENT CODE-IN wants to create an inclusive environment for everyone, regardles
 
 
 >Our goal is to maintain a safe, helpful and friendly Student-Code-In community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other protected categories under applicable law.
-```
 
 ## EXPECTED BEHAVIOR
 Don't just support your colleagues on demand, be proactive. Offer your help if you notice that a team member is struggling with a problem or otherwise needs help. Be careful not to be too patronizing or disrespectful. When someone turns to you for help, always be open, listen and try to put yourself in the position of your counterpart. If you don't have time because of a deadline, let the person know and tell them openly when you have time or maybe refer a team member who is just as familiar with the topic.
