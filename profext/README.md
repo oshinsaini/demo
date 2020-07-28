@@ -136,7 +136,7 @@ Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contr
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128/)
 
-## ❤️ Thanks to our awesome contributors.
+## ❤️ Thanks to our awesome contributors
 
 ## Contributors ✨
 
