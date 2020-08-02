@@ -18,7 +18,7 @@
 - Diversity and inclusion make the `Student-Code-In community` strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
 
 
->Our goal is to maintain a safe, helpful and friendly `Student-Code-In community` for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other protected categories under applicable law.
+>Our goal is to maintain a safe, helpful and friendly Student-Code-In community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other protected categories under applicable law.
 
 
 ## EXPECTED BEHAVIOR
