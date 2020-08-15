@@ -16,7 +16,7 @@
 
 
 
-⭐ [Check out the website of Student Code In 2020](https://scodein.tech/)
+⭐ [Check out the website of 'Student Code In ' 2020](https://scodein.tech/)
 
 # 👣 Profile Extension
 
