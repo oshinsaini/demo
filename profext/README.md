@@ -6,7 +6,7 @@
 # This project is a part of Student Code In 2020 👣
   OPEN SOURCE CONTEST - `STUDENT CODE IN`
   ### About Student Code In 💻
-  Student Code-in is a global program that helps students grow with `OPEN SOURCE` .It is a 2 months long Open-Source initiative that provides you the best platform to improve your skills and abilities by contributing to a vast variety of `OPEN SOURCE PROJECTS`. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team........
+  Student Code-in is a global program that helps students grow with `OPEN SOURCE` .It is a 2 months long Open-Source initiative that provides you the best platform to improve your skills and abilities by contributing to a vast variety of `OPEN SOURCE PROJECTS`. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team.
 
 <div align="center">
 
